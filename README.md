@@ -1,8 +1,8 @@
 ## popclip extension
 
-###Formatter: format the string to well-formed JSON, XML or SQL
+### Formatter: format the string to well-formed JSON, XML or SQL
 
-###Usages:
+### Usages:
 
 #### format JSON
 ![usages-json](usages/usages-json.gif)
